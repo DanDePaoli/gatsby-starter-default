@@ -1,6 +1,6 @@
-import React from "react"
+import React, { useState } from "react"
 import { Link } from "gatsby"
-
+import Modal from 'react-responsive-modal';
 import Layout from "../components/layout"
 import Map from "./map.js";
 import { withScriptjs, withGoogleMap, GoogleMap, Marker } from "react-google-maps";
@@ -19,19 +19,33 @@ import { withScriptjs, withGoogleMap, GoogleMap, Marker } from "react-google-map
 
 const MapComponent = withScriptjs(withGoogleMap(Map));
 
-const IndexPage = () => (
-  <Layout>
-<div style={{ width: '100%', height: '80vh' }} >
+export default function IndexPage() {
 
-<MapComponent
-  googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=${"AIzaSyDkgOjcI83-cYqzCZPWfQZhv8sadTCXOZk"}`}
-  loadingElement={<div style={{ height: `100%` }} />}
-  containerElement={<div style={{ height: `100%` }} />}
-  mapElement={<div style={{ height: `100%` }} />}
-/>
+  const [modal, setModal] = useState(false);
 
-</div>
-  </Layout>
-)
+  return (
+    <Layout>
+      <div style={{ width: '100%', height: '80vh' }} >
 
-export default IndexPage
+        <MapComponent
+          googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=${"AIzaSyDkgOjcI83-cYqzCZPWfQZhv8sadTCXOZk"}`}
+          loadingElement={<div style={{ height: `100%` }} />}
+          containerElement={<div style={{ height: `100%` }} />}
+          mapElement={<div style={{ height: `100%` }} />}
+          setModal={setModal}
+        />
+
+      </div>
+
+      <Modal
+        open={modal}
+        onClose={() => setModal(false)}>
+        <h1>Modal</h1>
+        <p>Window</p>
+      </Modal>
+
+    </Layout>
+  )
+}
+
+// export default IndexPage

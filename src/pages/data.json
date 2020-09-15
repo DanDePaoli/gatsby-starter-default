@@ -1,0 +1,49 @@
+{
+  "features": [
+    {
+      "properties": {
+        "ID": 1,
+        "NAME": "388 Folsom",
+        "DESCRIPTION": "636,Chennai",
+        "Image": "https://r1imghtlak.mmtcdn.com/d0ee09f4707f11e78693025f77df004f.jpg?&output-quality=75&downsize=*:350&crop=520:350;81,0&output-format=jpg",
+        "Cost": 2500
+      },
+      "geometry": {
+        "coordinates": [
+          37.788100,
+          -122.393580
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 2,
+        "NAME": "201 3rd St",
+        "DESCRIPTION": "San Francisco, CA 94103",
+        "Image": "https://pix10.agoda.net/hotelImages/184/1848884/1848884_17011814160050384944.jpg?s=1024x768",
+        "Cost": 3500
+      },
+      "geometry": {
+        "coordinates": [
+          37.784889,
+          -122.399918
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 3,
+        "NAME": "Solaire Apartments",
+        "DESCRIPTION": "299 Fremont St, San Francisco, CA 94105",
+        "Image": "https://edge.media.datahc.com/HI549541188.jpg",
+        "Cost": 4500
+      },
+      "geometry": {
+        "coordinates": [
+          37.788601,
+          -122.393478
+        ]
+      }
+    }
+  ]
+}
