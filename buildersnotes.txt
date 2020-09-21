@@ -4,7 +4,6 @@ https://www.npmjs.com/package/google-maps-react
 https://www.npmjs.com/package/react-google-maps
 https://www.gatsbyjs.com/
 https://www.npmjs.com/package/react-responsive-modal
-https://www.youtube.com/watch?v=DJjLIjpcvmM
 https://tailwindcss.com/docs/installation
 
 https://www.zillow.com/howto/api/GetSearchResults.htm

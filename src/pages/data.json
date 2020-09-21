@@ -3,10 +3,24 @@
     {
       "properties": {
         "ID": 1,
-        "NAME": "388 Folsom",
-        "DESCRIPTION": "636,Chennai",
-        "Image": "https://r1imghtlak.mmtcdn.com/d0ee09f4707f11e78693025f77df004f.jpg?&output-quality=75&downsize=*:350&crop=520:350;81,0&output-format=jpg",
-        "Cost": 2500
+        "NAME": "388 Folsom Building",
+        "DESCRIPTION": "388 Folsom St. San Francisco CA 93104",
+        "Image": "https://a0.muscache.com/4ea/air/v2/pictures/06045493-31f0-4583-9158-a9f556e708fd.jpg",
+        "Zestimate": 2.11,
+        "Bedroom": 4,
+        "Bathroom": 2,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
+
       },
       "geometry": {
         "coordinates": [
@@ -19,9 +33,22 @@
       "properties": {
         "ID": 2,
         "NAME": "201 3rd St",
-        "DESCRIPTION": "San Francisco, CA 94103",
-        "Image": "https://pix10.agoda.net/hotelImages/184/1848884/1848884_17011814160050384944.jpg?s=1024x768",
-        "Cost": 3500
+        "DESCRIPTION": "201 3rd St, San Francisco, CA 94103",
+        "Image": "https://a0.muscache.com/4ea/air/v2/pictures/e5e58e85-6d76-46df-9258-291e8cc725b8.jpg",
+        "Zestimate": 2.21,
+        "Bedroom": 7,
+        "Bathroom": 2,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
       },
       "geometry": {
         "coordinates": [
@@ -35,13 +62,253 @@
         "ID": 3,
         "NAME": "Solaire Apartments",
         "DESCRIPTION": "299 Fremont St, San Francisco, CA 94105",
-        "Image": "https://edge.media.datahc.com/HI549541188.jpg",
-        "Cost": 4500
+        "Image": "https://a0.muscache.com/im/pictures/58f5f0ed-7f42-42d6-8527-1f6cc992b1ae.jpg",
+        "Zestimate": 3.24,
+        "Bedroom": 5,
+        "Bathroom": 4,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
       },
       "geometry": {
         "coordinates": [
           37.788601,
           -122.393478
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 4,
+        "NAME": "Jasper Building",
+        "DESCRIPTION": "45 Lansing St, San Francisco, CA 94105",
+        "Image": "https://a0.muscache.com/im/pictures/78253bb2-1bf9-4dc4-82f4-51fead9429a8.jpg",
+        "Zestimate": 1.94,
+        "Bedroom": 3,
+        "Bathroom": 2,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
+
+      },
+      "geometry": {
+        "coordinates": [
+          37.786040,
+          -122.393810
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 5,
+        "NAME": "Kaiser Home",
+        "DESCRIPTION": "160 Spear St 13th floor, San Francisco, CA 94105",
+        "Image": "https://a0.muscache.com/im/pictures/dc09ee21-27e9-4dcd-9b59-7ba7ade0563f.jpg",
+        "Zestimate": 2.2,
+        "Bedroom": 5,
+        "Bathroom": 3,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
+
+      },
+      "geometry": {
+        "coordinates": [
+          37.793121,
+          -122.394753
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 6,
+        "NAME": "388 Main",
+        "DESCRIPTION": "338 Main St San Francisco, CA 94105",
+        "Image": "https://a0.muscache.com/im/pictures/e2c3675f-d59d-429d-9540-39ff93dcf8b5.jpg",
+        "Zestimate": 1.74,
+        "Bedroom": 3,
+        "Bathroom": 4,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
+
+      },
+      "geometry": {
+        "coordinates": [
+          37.791454,
+          -122.395446
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 7,
+        "NAME": "Soma Square",
+        "DESCRIPTION": "1 St Francis Pl, San Francisco, CA 94107",
+        "Image": "https://a0.muscache.com/4ea/air/v2/pictures/ba0f02ff-1dfa-4d76-b920-a9b81f5846a0.jpg",
+        "Zestimate": 2.11,
+        "Bedroom": 6,
+        "Bathroom": 4,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
+
+      },
+      "geometry": {
+        "coordinates": [
+          37.783630, -122.397991
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 8,
+        "NAME": "422 Delancy",
+        "DESCRIPTION": "600 The Embarcadero, San Francisco, CA 94107",
+        "Image": "https://a0.muscache.com/4ea/air/v2/pictures/a8394572-a7a7-4d5a-9fde-7e09e6e6172e.jpg",
+        "Zestimate": 3.01,
+        "Bedroom": 4,
+        "Bathroom": 4,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
+
+      },
+      "geometry": {
+        "coordinates": [
+          37.785807, -122.388888
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 9,
+        "NAME": "Jasper Building",
+        "DESCRIPTION": "45 Lansing St, San Francisco, CA 94105",
+        "Image": "https://a0.muscache.com/im/pictures/15273358/d7329e9a_original.jpg",
+        "Zestimate": 1.24,
+        "Bedroom": 5,
+        "Bathroom": 4,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
+
+      },
+      "geometry": {
+        "coordinates": [
+          37.778382, -122.394828
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 10,
+        "NAME": "600 Stockton",
+        "DESCRIPTION": "600 Stockton St San Francisco, CA 94108",
+        "Image": "https://a0.muscache.com/4ea/air/v2/pictures/0040732e-2111-4367-b9c4-ccbb0f26c4b1.jpg",
+        "Zestimate": 2.24,
+        "Bedroom": 9,
+        "Bathroom": 4,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
+
+      },
+      "geometry": {
+        "coordinates": [
+          37.791818, -122.406793
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 11,
+        "NAME": "150 Powell",
+        "DESCRIPTION": "150 Powell St San Francisco, CA 94102",
+        "Image": "https://a0.muscache.com/im/pictures/5026334/06d820ea_original.jpg",
+        "Zestimate": 2.77,
+        "Bedroom": 4,
+        "Bathroom": 4,
+        "SquareFeet": 2363,
+        "PricePerFoot": 635,
+        "OneYrN": 7,
+        "FiveYrN": 30,
+        "TenYrN": 145,
+        "OneYrC": 4,
+        "FiveYrC": 27,
+        "TenYrC": 133,
+        "OneYr": -3,
+        "FiveYr": 37,
+        "TenYr": 153
+
+      },
+      "geometry": {
+        "coordinates": [
+          37.786260, -122.407752
         ]
       }
     }
